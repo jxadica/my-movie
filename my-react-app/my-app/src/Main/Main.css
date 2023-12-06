@@ -1,0 +1,63 @@
+.main {
+    width: 80%;
+    height: fit-content;
+}
+.myMovies {
+    /* width: fit-content; */
+    height: fit-content;
+    padding: 10px;
+    margin: 10px;
+    font-size: 12px;
+    border: transparent;
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+form{
+    margin-bottom:  10px ;
+}
+.searchInput {
+    /* background-color: #ffffff; */
+    border-radius: 20px;
+    color: #283647;
+    width: fit-content;
+    height: 25px;
+    padding-left: 7px;
+}
+.searchBut{
+    background-color: white;
+    color: #283647;
+    height: 32px;
+    padding: 7px;
+    /* width: ; */
+    border-radius: 20px;
+}
+.nameOfMovie {
+    color:white;
+    margin-bottom: 7px;
+   
+}
+.adding{
+    border: transparent;
+    border-radius: 20px;
+  color: aliceblue;
+     background-color: #78A3E4;
+     padding: 7px;
+     width: max-content;
+     margin-bottom: 12px;
+}
+.link{
+  background-color: #90B5ED;
+  padding: 5px;
+  width: max-content;
+  border-radius: 20px;
+}
+.posterAndInfo {
+    display: flex;
+    flex-direction:row;
+}
+.movieInfo{
+    margin-left:20px ;
+}
+

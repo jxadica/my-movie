@@ -1,0 +1,10 @@
+.side {
+    width: fit-content;
+    border: 2px solid #78A3E4;
+    border-radius: 20px;
+    padding: 10px;
+    height: max-content;
+}
+.sideH3{
+    color: white;
+}

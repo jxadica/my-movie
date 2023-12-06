@@ -1,0 +1,13 @@
+.header {
+    /* width: 100wh; */
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+h1{
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+}
