@@ -4,7 +4,28 @@
     border-radius: 20px;
     padding: 10px;
     height: max-content;
+    margin-left: 25px;
+    margin-right: 20px;
 }
 .sideH3{
     color: white;
+}
+@media  screen and (max-width: 420px) and (min-width:320px) {
+    .sideH3 {
+        font-size: 13px;
+    }
+    .liStName {
+        width: 90px;
+        height: 13px;
+    }
+    .save {
+        width: fit-content;
+        height: 15px;    ;
+        background-color: transparent;
+        border: none;
+        font-size: 12px;
+    }
+    .sideMovieNames {
+        font-size: 13px;
+    }
 }

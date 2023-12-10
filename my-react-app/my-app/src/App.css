@@ -7,8 +7,10 @@
   display:flex;
   background: #283647;
   flex-direction: column;
+  width: fit-content;
   /* justify-content: space-between; */
-  height: 100vh;
+  height: fit-content;
+  margin-left: 10px;
 }
 .container {
   display: flex;
